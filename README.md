@@ -11,6 +11,5 @@ thus indicating the efficiency difference .
 ## Steps
 1. **Clone the repository:**
  ```bash
-   git clone https://github.com/aritrakar95/MultiThreadedWebServer
-make a thread group and start server and run the thread group, done .
-can be stopped easily by jmeter
+    https://github.com/aritrakar95/MultiThreadedWebServer
+2. **Set up jmeter**
