@@ -19,7 +19,7 @@ thus indicating the efficiency difference .
   - b.Create a thread group
   - c.Inside it create TCP Sampler
   - d. Select view results in Table , tree , graph
-4.Finally run steps
+4. <- Finally run steps
  - Open terminal and select the server you want to run
  - Afer server port is listening start the file in jmeter
  - now the results will get displayed in jmeter.
