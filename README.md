@@ -13,9 +13,9 @@ thus indicating the efficiency difference .
  ```bash
     https://github.com/aritrakar95/MultiThreadedWebServer
 ````
-2. **Set up Jmeter **
+2. Set up Jmeter 
 3. Inside Jmeter
-   a. Create a test run
-   b.Create a thread group
-   c.Inside it create TCP Sampler
-   d. Select view results in Table , tree , graph
+  - a. Create a test run
+  - b.Create a thread group
+  - c.Inside it create TCP Sampler
+  - d. Select view results in Table , tree , graph
