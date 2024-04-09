@@ -8,6 +8,9 @@ thus indicating the efficiency difference .
 - 5 : Done with jmeter.
 
 # How to run 
-just download this repo. set up jmeter .
+## Steps
+1. **Clone the repository:**
+ ```bash
+   git clone https://github.com/aritrakar95/MultiThreadedWebServer
 make a thread group and start server and run the thread group, done .
 can be stopped easily by jmeter
